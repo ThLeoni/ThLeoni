@@ -1,4 +1,10 @@
-<h2 align="center">Welcome to my profile!</h2>
+<h2 align="center">Welcome to my Github! 💛 </h2>  
+
+<div align="center">
+ 
+![rhobh-cat](https://github.com/ThLeoni/ThLeoni/assets/92694950/e4562740-494a-4ab1-91da-aaa2daa2b637)
+ 
+</div>
 
 
  ### 📎 Languages and Tools: 
