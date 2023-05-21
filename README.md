@@ -11,3 +11,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thleoni&show_icons=true&theme=tokyonight)
+
+![snake gif](https://github.com/thleoni/thleonni/blob/output/github-contribution-grid-snake.svg)
