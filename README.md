@@ -1,7 +1,7 @@
-<h3 align="center">Welcome to my profile!</h3>
+<h2 align="center">Welcome to my profile!</h2>
 
 
- ### Languages and Tools: 
+ ### 📎 Languages and Tools: 
  
   <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
  	<a href="https://www.debian.org/index.en" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" target="_blank"></a>
 </div>
 
-### Find me elsewhere: 
+### 📎 Find me elsewhere: 
 <div>
   <a href="https://www.linkedin.com/in/thaísleoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thaisleoni_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
