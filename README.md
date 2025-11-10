@@ -10,7 +10,6 @@
  
  <a href="https://www.linkedin.com/in/thaísleoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/GloriaADeux" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
- <a href="https://www.youtube.com/@thaisleoni" target="_blank"><img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
  
 </div>
@@ -33,8 +32,7 @@
  
 ![rhobh-cat](https://github.com/ThLeoni/ThLeoni/assets/92694950/e4562740-494a-4ab1-91da-aaa2daa2b637) 
  
- 
- ![snake gif](https://github.com/thleoni/thleoni/blob/output/github-contribution-grid-snake.svg)
+
  
  
  
